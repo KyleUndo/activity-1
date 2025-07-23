@@ -21,3 +21,9 @@ const PORT = 3000
 app.listen(PORT, () => {
     console.log(`App is running on http://localhost:${PORT}`)
 })
+
+// Members BSIT 3A: 
+// Kyle Ando
+// John Vincent Aro 
+// Micco James Ang 
+// Shin Aro 
