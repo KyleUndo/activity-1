@@ -4,6 +4,7 @@ const mockUsers = require("../mock.users.json")
 const app = express();
 
 const person = {
+    name: "Kyle",
     emotion: (emotion) => {
         console.log(`I feel ${emotion}`);
     }
